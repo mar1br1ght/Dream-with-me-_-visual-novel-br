@@ -18,13 +18,20 @@ Esses pontos de afinidade determinam a qualidade dos relacionamentos da protagon
 
 A bateria social é uma mecânica que representa a energia social da protagonista. Cada interação com os personagens consome uma parte da bateria social. Para recarregar a bateria, a protagonista precisa participar de atividades relaxantes ou dormir.
 
-## Mini Games: Os Pesadelos
+## Ganhar Corações
 
-Os mini games são representados por pesadelos que a protagonista deve superar. Vencer esses mini games é essencial para avançar no jogo. Aqui estão alguns exemplos de como jogar os mini games:
+Existem várias formas de ganhar corações no jogo, aumentando assim os pontos de afinidade:
 
-1. **Labirinto dos Medos**: Navegue através de um labirinto evitando obstáculos e coletando itens que aumentam a coragem.
-2. **Corrida Contra o Tempo**: Complete uma série de desafios antes que o tempo acabe.
-3. **Enigma das Sombras**: Resolva quebra-cabeças para dissipar as sombras e encontrar a saída.
+1. **Mini Games: Os Pesadelos**
+   - Vencer os mini games representados por pesadelos é uma maneira crucial de ganhar corações.
+   - Exemplos de mini games:
+     - **Labirinto dos Medos**: Navegue através de um labirinto evitando obstáculos e coletando itens que aumentam a coragem.
+     - **Corrida Contra o Tempo**: Complete uma série de desafios antes que o tempo acabe.
+     - **Enigma das Sombras**: Resolva quebra-cabeças para dissipar as sombras e encontrar a saída.
+
+2. **Mini Fazendinha de Corações**
+   - Durante os sonhos, a protagonista pode cultivar corações em uma mini fazendinha especial.
+   - Cuidar dessa fazendinha, regar as plantas e garantir que elas cresçam saudáveis recompensa a protagonista com corações adicionais.
 
 ## Funcionamento dos Sonhos
 
